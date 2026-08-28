@@ -1,4 +1,4 @@
-# Hi, I'm Eyamin Khan Emon 👋
+# Hi, I'm Eyamin Khan Emon 
 
 I'm a Computer Science student with an interest in software development, web technologies, and building practical projects. I enjoy learning through hands-on development and continuously improving my technical skills.
 
