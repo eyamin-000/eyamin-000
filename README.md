@@ -87,6 +87,18 @@ A portfolio presenting my projects, technical skills, education, and experience.
 
 </div>
 
+## 🐾 Cat Corner
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="160" alt="A cat walking" />&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/yFQ0ywscgobJK/giphy.gif" width="160" alt="A cat sleeping" />&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" alt="A cat looking at you" />
+
+*One walking, one snoozing, and one keeping an eye on your scroll.*
+
+</div>
+
 ## Let's Connect
 
 I'm always glad to connect with fellow developers, students, and people building useful things.
